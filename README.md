@@ -47,6 +47,12 @@ When reporting playback issues or crashes, please include your TV device model a
 
 ---
 
+## Privacy Policy
+
+The PulseTV privacy policy is available at [PRIVACY.md](https://github.com/time2shine/PulseTV/blob/main/PRIVACY.md).
+
+---
+
 ## Trakt Notice
 
 > Rokon IPTV uses Trakt but is not endorsed or certified by Trakt.
