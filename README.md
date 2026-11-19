@@ -47,7 +47,16 @@ When reporting playback issues or crashes, please include your TV device model a
 
 ---
 
+## Trakt Notice
+
+> Rokon IPTV uses Trakt but is not endorsed or certified by Trakt.
+>
+> All movie and TV show scrobbles, watch history, and watchlist sync features are powered by the [Trakt.tv API](https://trakt.tv).
+
+---
+
 ## License & Credits
 
 - Maintained and developed by **Muhammad Rokonujjaman** (`@time2shine`).
 - Core media decoders powered by AndroidX Media3 / FFmpeg.
+- Metadata and scrobbling integration powered by Trakt.tv.
