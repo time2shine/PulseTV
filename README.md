@@ -28,7 +28,7 @@ PulseTV is a next-generation IPTV streaming platform engineered specifically for
 
 | Platform | Latest Version | Direct Download |
 | :--- | :--- | :--- |
-| **Android TV / Fire TV / Mobile** | **v1.0.0** | [Download APK](https://github.com/time2shine/PulseTV/releases/latest) |
+| **Android TV / Fire TV / Mobile** | **v1.0.1** | [Download APK](https://github.com/time2shine/PulseTV/releases/latest) |
 
 ### Installation via Downloader (Fire TV / Android TV)
 1. Install the **Downloader** app from your TV app store.
