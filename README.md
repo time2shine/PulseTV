@@ -38,7 +38,7 @@ PulseTV is a completely free, ad-free IPTV streaming platform built for Android 
 
 | Platform | Latest Version | Direct Download |
 | :--- | :--- | :--- |
-| **Android TV / Fire TV / Mobile** | **v1.0.5** | [Download APK](https://github.com/time2shine/PulseTV/releases/latest/download/PulseTV.apk) |
+| **Android TV / Fire TV / Mobile** | **v1.0.6** | [Download APK](https://github.com/time2shine/PulseTV/releases/latest/download/PulseTV.apk) |
 
 - **Mobile / Browser Short Link**: https://tinyurl.com/downloadPulseTV
 - **AFTVnews Short URL**: https://aftv.news/1712630
